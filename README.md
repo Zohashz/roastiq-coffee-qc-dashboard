@@ -54,7 +54,6 @@ The dashboard has 4 pages, connected through a custom icon-based sidebar for nav
 
 
 
-*(Replace the file names above with your actual uploaded screenshot names)*
 
 ## 📈 Key KPIs & DAX Measures
 
